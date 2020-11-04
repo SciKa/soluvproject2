@@ -1,0 +1,118 @@
+1	H	수소	Hydrogen	Hydrogenium	고대 그리스어: hydro- + gen 물 생성	1	1	1.008[c][d][e][f]	0.00008988	14.01	20.28	14.304	2.20	1400
+2	He	헬륨	Helium	Helium	고대 그리스어: helios 태양	18	1	4.002602(2)[c][e]	0.0001785	—[g]	4.22	5.193	–	0.008
+3	Li	리튬	Lithium	Lithium	고대 그리스어: lithos 돌	1	2	6.94[c][d][e][h][f]	0.534	453.69	1560	3.582	0.98	20
+4	Be	베릴륨	Beryllium	Beryllium	광물: 녹주석 (beryl)	2	2	9.0121831(5)	1.85	1560	2742	1.825	1.57	2.8
+5	B	붕소	Boron	Borium	광물: 붕사 (borax)	13	2	10.81[c][d][e][f]	2.34	2349	4200	1.026	2.04	10
+6	C	탄소	Carbon	Carbonium	라틴어: carbo 석탄	14	2	12.011[c][e][f]	2.267	3800	4300	0.709	2.55	200
+7	N	질소	Nitrogen	Nitrogenium	광물: 질산염 (nitrum) (고대 그리스어: nitron + -gen (질산염 생성))	15	2	14.007[c][e][f]	0.0012506	63.15	77.36	1.04	3.04	19
+8	O	산소	Oxygen	Oxygenium	고대 그리스어: oxy + -gen 산 형성	16	2	15.999[c][e][f]	0.001429	54.36	90.20	0.918	3.44	461000
+9	F	플루오린	Fluorine	Fluorum	광물: 형석 (라틴어: fluere)	17	2	18.998403163(6)	0.001696	53.53	85.03	0.824	3.98	585
+10	Ne	네온	Neon	Neon	고대 그리스어: neos 새로운	18	2	20.1797(6)[c][d]	0.0008999	24.56	27.07	1.03	–	0.005
+11	Na	나트륨	Sodium	Natrium	영어: soda, 라틴어: natrium	1	3	22.98976928(2)	0.971	370.87	1156	1.228	0.93	23600
+12	Mg	마그네슘	Magnesium	Magnesium	광물: 산화 마그네슘 (지역: 그리스 동테살리아 마그네시아 지방)	2	3	24.305[f]	1.738	923	1363	1.023	1.31	23300
+13	Al	알루미늄	Aluminium	Aluminium	광물: 명반석 (alum), 산화 알루미늄 (alumina) (원어: aluminum)	13	3	26.9815385(7)	2.698	933.47	2792	0.897	1.61	82300
+14	Si	규소	Silicon	Silicium	고대 그리스어: silex silex, silicis 부싯돌 (원어: silicium)	14	3	28.085[e][f]	2.3296	1687	3538	0.705	1.9	282000
+15	P	인	Phosphorus	Phosphorus	고대 그리스어: phos + phoros 빛 운반체	15	3	30.973761998(5)	1.82	317.30	550	0.769	2.19	1050
+16	S	황	Sulfur	Sulphur	라틴어: sulphur 불과 유황, 업화(業火)	16	3	32.06[c][e][f]	2.067	388.36	717.87	0.71	2.58	350
+17	Cl	염소	Chlorine	Chlorum	고대 그리스어: chloros 녹황색	17	3	35.45[c][d][e][f]	0.003214	171.6	239.11	0.479	3.16	145
+18	Ar	아르곤	Argon	Argon	고대 그리스어: argos 비활성	18	3	39.948(1)[c][e]	0.0017837	83.80	87.30	0.52	–	3.5
+19	K	칼륨	Potassium	Kalium	신라틴어: potassa 칼리 (라틴어: kalium)	1	4	39.0983(1)	0.862	336.53	1032	0.757	0.82	20900
+20	Ca	칼슘	Calcium	Calcium	라틴어: calx 석회	2	4	40.078(4)[c]	1.54	1115	1757	0.647	1	41500
+21	Sc	스칸듐	Scandium	Scandium	발견자 닐손의 출생지: 스칸디나비아 (라틴어: Scandia)	3	4	44.955908(5)	2.989	1814	3109	0.568	1.36	22
+22	Ti	티타늄	Titanium	Titanium	그리스 신화: 지구의 아들 티탄	4	4	47.867(1)	4.54	1941	3560	0.523	1.54	5650
+23	V	바나듐	Vanadium	Vanadium	노르드 신화: 스칸디나비아의 신 프레이야(고대 노르드어: Freyja)의 다른 이름 바나디스(Vanadis)	5	4	50.9415(1)	6.11	2183	3680	0.489	1.63	120
+24	Cr	크롬	Chromium	Chromium	고대 그리스어: chroma 색상	6	4	51.9961(6)	7.15	2180	2944	0.449	1.66	102
+25	Mn	망가니즈	Manganese	Manganum	광물: 마그네시아(magnesia negra), (자철석)	7	4	54.938044(3)	7.44	1519	2334	0.479	1.55	950
+26	Fe	철	Iron	Ferrum	영어 명사 (라틴어: ferrum)	8	4	55.845(2)	7.874	1811	3134	0.449	1.83	56300
+27	Co	코발트	Cobalt	Cobaltum	독일어: Kobold 고블린	9	4	58.933194(4)	8.86	1768	3200	0.421	1.88	25
+28	Ni	니켈	Nickel	Niccolum	스웨덴어: kopparnickel, 독일어: Nickel 고블린	10	4	58.6934(4)	8.912	1728	3186	0.444	1.91	84
+29	Cu	구리	Copper	Cuprum	지명: 고대 발굴지, 키프로스 (라틴어: cuprum)	11	4	63.546(3)[e]	8.96	1357.77	2835	0.385	1.9	60
+30	Zn	아연	Zinc	Zincum	독일어: Zinke 갈래끝	12	4	65.38(2)	7.134	692.88	1180	0.388	1.65	70
+31	Ga	갈륨	Gallium	Gallium	발견자 부아보드랑의 출생지: 프랑스의 옛 이름(라틴어: Gallia)	13	4	69.723(1)	5.907	302.9146	2673	0.371	1.81	19
+32	Ge	게르마늄	Germanium	Germanium	발견자 빈클러의 출생지: 독일의 옛 이름(독일어: Germania)	14	4	72.630(8)	5.323	1211.40	3106	0.32	2.01	1.5
+33	As	비소	Arsenic	Arsenicum	광물: 웅황 (라틴어: arsenicum)	15	4	74.921595(6)	5.776	1090 [i]	887	0.329	2.18	1.8
+34	Se	셀레늄	Selenium	Selenium	고대 그리스어: selene 달 (그리스 신화: 달의 여신 셀레네)	16	4	78.971(8)[e]	4.809	453	958	0.321	2.55	0.05
+35	Br	브로민	Bromine	Bromum	고대 그리스어: bromos 악취	17	4	79.904[f]	3.122	265.8	332.0	0.474	2.96	2.4
+36	Kr	크립톤	Krypton	Krypton	고대 그리스어: kryptos, 숨겨진 것	18	4	83.798(2)[c][d]	0.003733	115.79	119.93	0.248	3	1×10−4
+37	Rb	루비듐	Rubidium	Rubidium	라틴어: rubidus 진홍색	1	5	85.4678(3)[c]	1.532	312.46	961	0.363	0.82	90
+38	Sr	스트론튬	Strontium	Strontium	광물을 채취한 광산 위치: 스코틀랜드 스트론션(Strontian)	2	5	87.62(1)[c][e]	2.64	1050	1655	0.301	0.95	370
+39	Y	이트륨	Yttrium	Yttrium	광물을 발견한 지역: 스웨덴 위테르뷔 (Ytterby)	3	5	88.90584(2)	4.469	1799	3609	0.298	1.22	33
+40	Zr	지르코늄	Zirconium	Zirconium	광물: 지르콘 (페르시아어: Zargun 금색, 아랍어: zarqum 보석의 일종, 독일어: Zirkoon 자곤)	4	5	91.224(2)[c]	6.506	2128	4682	0.278	1.33	165
+41	Nb	나이오븀	Niobium	Niobium	그리스 신화: 탄탈로스의 딸 니오베	5	5	92.90637(2)	8.57	2750	5017	0.265	1.6	20
+42	Mo	몰리브데넘	Molybdenum	Molybdenum	고대 그리스어: molybdos 납	6	5	95.95(1)[c]	10.22	2896	4912	0.251	2.16	1.2
+43	Tc	테크네튬	Technetium	Technetium	고대 그리스어: tekhnètos 인공	7	5	[98][j]	11.5	2430	4538	–	1.9	~ 3×10−9[k]
+44	Ru	루테늄	Ruthenium	Ruthenium	발견 지역: 러시아(신라틴어: Ruthenia)	8	5	101.07(2)[c]	12.37	2607	4423	0.238	2.2	0.001
+45	Rh	로듐	Rhodium	Rhodium	고대 그리스어: rhodos 장밋빛	9	5	102.90550(2)	12.41	2237	3968	0.243	2.28	0.001
+46	Pd	팔라듐	Palladium	Palladium	당시 발견된 소행성: 팔라스 (pallas) (그리스 신화: 여신 아테나의 별명)	10	5	106.42(1)[c]	12.02	1828.05	3236	0.244	2.2	0.015
+47	Ag	은	Silver	Argentum	영어 명사 (라틴어: argentum, 히브리어: aurum 빛, 고대 영어: sioltur)	11	5	107.8682(2)[c]	10.501	1234.93	2435	0.235	1.93	0.075
+48	Cd	카드뮴	Cadmium	Cadmium	그리스 신화: 카드모스 (신라틴어: cadmia)	12	5	112.414(4)[c]	8.69	594.22	1040	0.232	1.69	0.159
+49	In	인듐	Indium	Indium	라틴어: indicum 남색(indigo)	13	5	114.818(1)	7.31	429.75	2345	0.233	1.78	0.25
+50	Sn	주석	Tin	Stannum	영어 명사 (라틴어: stannum)	14	5	118.710(7)[c]	7.287	505.08	2875	0.228	1.96	2.3
+51	Sb	안티모니	Antimony	Stibium	광물: 휘안석 (antimonium) (고대 그리스어: anti + monos, 중세 프랑스어: antimoine (추정))	15	5	121.760(1)[c]	6.685	903.78	1860	0.207	2.05	0.2
+52	Te	텔루륨	Tellurium	Tellurium	라틴어: tellus 지구 (로마 신화: 땅의 여신 텔루스	16	5	127.60(3)[c]	6.232	722.66	1261	0.202	2.1	0.001
+53	I	아이오딘	Iodine	Iodum	증기의 색: 보라색 (고대 그리스어: ioeides, 프랑스어: iode)	17	5	126.90447(3)	4.93	386.85	457.4	0.214	2.66	0.45
+54	Xe	제논	Xenon	Xenon	고대 그리스어: xenos 낯선	18	5	131.293(6)[c][d]	0.005887	161.4	165.03	0.158	2.6	3×10−5
+55	Cs	세슘	Caesium	Caesium	불꽃 반응의 색: 파란색 (라틴어: caesius)	1	6	132.90545196(6)	1.873	301.59	944	0.242	0.79	3
+56	Ba	바륨	Barium	Barium	광물: 중정석 (고대 그리스어: barys 무거운)	2	6	137.327(7)	3.594	1000	2170	0.204	0.89	425
+57	La	란타넘	Lanthanum	Lanthanum	고대 그리스어: lanthanein 숨어 있는	3	6	138.90547(7)[c]	6.145	1193	3737	0.195	1.1	39
+58	Ce	세륨	Cerium	Cerium	당시 발견된 소행성: 세레스 (Ceres)		6	140.116(1)[c]	6.77	1068	3716	0.192	1.12	66.5
+59	Pr	프라세오디뮴	Praseodymium	Praseodymium	고대 그리스어: praseo + didymos 녹색 쌍둥이		6	140.90766(2)	6.773	1208	3793	0.193	1.13	9.2
+60	Nd	네오디뮴	Neodymium	Neodymium	고대 그리스어: neo + didymos 새로운 쌍둥이		6	144.242(3)[c]	7.007	1297	3347	0.19	1.14	41.5
+61	Pm	프로메튬	Promethium	Promethium	그리스 신화: 신의 불을 훔쳐 인간에게 준 프로메테우스		6	[145][j]	7.26	1315	3273	–	1.13	2×10−19[k]
+62	Sm	사마륨	Samarium	Samarium	최초로 분리한 광물: 사마스카이트		6	150.36(2)[c]	7.52	1345	2067	0.197	1.17	7.05
+63	Eu	유로퓸	Europium	Europium	발견 대륙: 유럽		6	151.964(1)[c]	5.243	1099	1802	0.182	1.2	2
+64	Gd	가돌리늄	Gadolinium	Gadolinium	인물: 희토류를 연구한 광물학자 요한 가돌린		6	157.25(3)[c]	7.895	1585	3546	0.236	1.2	6.2
+65	Tb	터븀	Terbium	Terbium	광물을 발견한 지역: 스웨덴 위테르뷔 (Ytterby)		6	158.92535(2)	8.229	1629	3503	0.182	1.2	1.2
+66	Dy	디스프로슘	Dysprosium	Dysprosium	고대 그리스어: dysprositos 얻기 어려운		6	162.500(1)[c]	8.55	1680	2840	0.17	1.22	5.2
+67	Ho	홀뮴	Holmium	Holmium	지명: 스톡홀롬의 옛 이름 (신라틴어: Holmia)		6	164.93033(2)	8.795	1734	2993	0.165	1.23	1.3
+68	Er	어븀	Erbium	Erbium	광물을 발견한 지역: 스웨덴 위테르뷔 (Ytterby)		6	167.259(3)[c]	9.066	1802	3141	0.168	1.24	3.5
+69	Tm	툴륨	Thulium	Thulium	발견 지역: 스칸디나비아의 옛 이름 툴레(Thule)		6	168.93422(2)	9.321	1818	2223	0.16	1.25	0.52
+70	Yb	이터븀	Ytterbium	Ytterbium	광물을 발견한 지역: 스웨덴 위테르뷔 (Ytterby)		6	173.045(10)[c]	6.965	1097	1469	0.155	1.1	3.2
+71	Lu	루테튬	Lutetium	Lutetium	발견 지역: 파리의 옛 이름 (라틴어: Lutetia)		6	174.9668(1)[c]	9.84	1925	3675	0.154	1.27	0.8
+72	Hf	하프늄	Hafnium	Hafnium	발견 지역: 코펜하겐의 옛 이름 (라틴어: Hafnia)	4	6	178.49(2)	13.31	2506	4876	0.144	1.3	3
+73	Ta	탄탈럼	Tantalum	Tantalum	그리스 신화: 니오베의 아버지 탄탈로스	5	6	180.94788(2)	16.654	3290	5731	0.14	1.5	2
+74	W	텅스텐	Tungsten	Wolframium	스웨덴어: tung sten 무거운 돌 (W는 wolfram로, 텅스텐 광물의 옛 이름 wolframite에서 유래)	6	6	183.84(1)	19.25	3695	5828	0.132	2.36	1.3
+75	Re	레늄	Rhenium	Rhenium	발견 지역: 독일 라인 강 (라틴어: Rhenus)	7	6	186.207(1)	21.02	3459	5869	0.137	1.9	7×10−4
+76	Os	오스뮴	Osmium	Osmium	고대 그리스어: osmè 냄새	8	6	190.23(3)[c]	22.61	3306	5285	0.13	2.2	0.002
+77	Ir	이리듐	Iridium	Iridium	그리스 신화: 무지개 신 이리스	9	6	192.217(3)	22.56	2719	4701	0.131	2.2	0.001
+78	Pt	백금	Platinum	Platinum	스페인어: platina 적은 은	10	6	195.084(9)	21.46	2041.4	4098	0.133	2.28	0.005
+79	Au	금	Gold	Aurum	영어 명사 (라틴어: aurum)	11	6	196.966569(5)	19.282	1337.33	3129	0.129	2.54	0.004
+80	Hg	수은	Mercury	Hydrargyrum	로마 신화: 메르쿠리우스 (신라틴어: mercurius)	12	6	200.592(3)	13.5336	234.43	629.88	0.14	2	0.085
+81	Tl	탈륨	Thallium	Thallium	그리스 신화: 탈리아 (고대 그리스어: thallos 개화)	13	6	204.38[f]	11.85	577	1746	0.129	1.62	0.85
+82	Pb	납	Lead	Plumbum	영어 명사 (라틴어: plumbum)	14	6	207.2(1)[c][e]	11.342	600.61	2022	0.129	1.87	14
+83	Bi	비스무트	Bismuth	Bisemutum	고대 그리스어: wiss majaht 안식향처럼 잘 녹는, 고대 고지 독일어: Wissmuth, Wismut, 라틴어: bisemutum 녹는	15	6	208.98040(1)[j]	9.807	544.7	1837	0.122	2.02	0.009
+84	Po	폴로늄	Polonium	Polonium	발견자 마리 퀴리의 출생지: 폴란드 (라틴어: Polonia)	16	6	[209][j]	9.32	527	1235	–	2.0	2×10−10[k]
+85	At	아스타틴	Astatine	Astatum	고대 그리스어: astatos 불안정한	17	6	[210][j]	7	575	610	–	2.2	3×10−20[k]
+86	Rn	라돈	Radon	adon	Radium (라듐) + on (접미사)	18	6	[222][j]	0.00973	202	211.3	0.094	2.2	4×10−13[k]
+87	Fr	프랑슘	Francium	Francium	발견 지역: 프랑스의 옛 지명 (신라틴어: Francia)	1	7	[223][j]	1.87	300	950	–	0.7	~ 1×10−18[k]
+88	Ra	라듐	Radium	Radium	신라틴어: radius 빛살	2	7	[226][j]	5.5	973	2010	0.094	0.9	9×10−7[k]
+89	Ac	악티늄	Actinium	Actinium	고대 그리스어: aktis 빛살	3	7	[227][j]	10.07	1323	3471	0.12	1.1	5.5×10−10[k]
+90	Th	토륨	Thorium	Thorium	노르드 신화: 천둥의 신 토르		7	232.0377(4)[j][c]	11.72	2115	5061	0.113	1.3	9.6
+91	Pa	프로트악티늄	Protactinium	Protactinium	고대 그리스어: protos 기원의 + 악티늄 (알파 붕괴시 악티늄이 됨)		7	231.03588(2)[j]	15.37	1841	4300	–	1.5	1.4×10−6[k]
+92	U	우라늄	Uranium	Uranium	그 해 발견된 행성: 천왕성 (Uranus)		7	238.02891(3)[j]	18.95	1405.3	4404	0.116	1.38	2.7
+93	Np	넵투늄	Neptunium	Neptunium	그 해 발견된 행성: 해왕성 (Neptune)		7	[237][j]	20.45	917	4273	–	1.36	≤ 3×10−12[k]
+94	Pu	플루토늄	Plutonium	Plutonium	그 해 발견된 왜소행성: 명왕성 (Pluto)		7	[244][j]	19.84	912.5	3501	–	1.28	≤ 3×10−11[k]
+95	Am	아메리슘	Americium	Americium	발견 대륙: 아메리카		7	[243][j]	13.69	1449	2880	–	1.13	0[l]
+96	Cm	퀴륨	Curium	Curium	인물: 피에르 퀴리, 마리 퀴리		7	[247][j]	13.51	1613	3383	–	1.28	0[l]
+97	Bk	버클륨	Berkelium	Berkelium	발견 지역: 버클리 (Berkeley)		7	[247][j]	14.79	1259	2900	–	1.3	0[l]
+98	Cf	캘리포늄	Californium	Californium	발견 지역: 미국 캘리포니아주		7	[251][j]	15.1	1173	(1743)[m]	–	1.3	0[l]
+99	Es	아인슈타이늄	Einsteinium	Einsteinium	인물: 알베르트 아인슈타인		7	[252][j]	8.84	1133	(1269)[m]	–	1.3	0[l]
+100	Fm	페르뮴	Fermium	Fermium	인물: 엔리코 페르미		7	[257][j]	(9.7)[m]	(1125)[m]	–	–	1.3	0[l]
+101	Md	멘델레븀	Mendelevium	Mendelevium	인물: 드미트리 멘델레예프		7	[258][j]	(10.3)[m]	(1100)[m]	–	–	1.3	0[l]
+102	No	노벨륨	Nobelium	Nobelium	인물: 알프레드 노벨		7	[259][j]	(9.9)[m]	(1100)[m]	–	–	1.3	0[l]
+103	Lr	로렌슘	Lawrencium	Lawrencium	인물: 어니스트 로런스		7	[266][j]	(15.6)[m]	(1900)[m]	–	–	1.3	0[l]
+104	Rf	러더포듐	Rutherfordium	Rutherfordium	인물: 어니스트 러더퍼드	4	7	[267][j]	(23.2)[m]	(2400)[m]	(5800)[m]	–	–	0[l]
+105	Db	더브늄	Dubnium	Dubnium	합성 지역: 러시아 두브나 (Dubna) (JINR이 위치)	5	7	[268][j]	(29.3)[m]	–	–	–	–	0[l]
+106	Sg	시보귬	Seaborgium	Seaborgium	인물: 글렌 T. 시보그	6	7	[269][j]	(35.0)[m]	–	–	–	–	0[l]
+107	Bh	보륨	Bohrium	Bohrium	인물: 닐스 보어	7	7	[270][j]	(37.1)[m]	–	–	–	–	0[l]
+108	Hs	하슘	Hassium	Hassium	합성 지역: 독일 헤센주 (라틴어: Hassia)	8	7	[277][j]	(40.7)[m]	–	–	–	–	0[l]
+109	Mt	마이트너륨	Meitnerium	Meitnerium	인물: 리제 마이트너	9	7	[278][j]	(37.4)[m]	–	–	–	–	0[l]
+110	Ds	다름슈타튬	Darmstadtium	Darmstadtium	합성 지역: 다름슈타트	10	7	[281][j]	(34.8)[m]	–	–	–	–	0[l]
+111	Rg	뢴트게늄	Roentgenium	Roentgenium	인물: 빌헬름 콘라트 뢴트겐	11	7	[282][j]	(28.7)[m]	–	–	–	–	0[l]
+112	Cn	코페르니슘	Copernicium	Copernicium	인물: 니콜라우스 코페르니쿠스	12	7	[285][j]	(23.7)[m]	–	~357[n]	–	–	0[l]
+113	Nh	니호늄	Nihonium	Nihonium	합성 지역: 일본 (일본어: にほん 니혼[*])	13	7	[286][j]	(16)[m]	(700)[m]	(1400)[m]	–	–	0[l]
+114	Fl	플레로븀	Flerovium	Flerovium	합성 지역: JINR 소속 플레로프핵반응연구소 (인물: 게오르기 플료로프)	14	7	[289][j]	(14)[m]	–	~210	–	–	0[l]
+115	Mc	모스코븀	Moscovium	Moscovium	합성 지역: 러시아 모스크바주	15	7	[290][j]	(13.5)[m]	(700)[m]	(1400)[m]	–	–	0[l]
+116	Lv	리버모륨	Livermorium	Livermorium	JINR에 협조한 로렌스 리버모어 국립 연구소의 소재지: 리버모어	16	7	[293][j]	(12.9)[m]	(709)[m]	(1085)[m]	–	–	0[l]
+117	Ts	테네신	Tennessine	Tennessine	JINR에 협조한 오크리지 국립 연구소의 소재지: 미국 테네시주	17	7	[294][j]	(7.2)[m]	(723)[m]	(883)[m]	–	–	0[l]
+118	Og	오가네손	Oganesson	Oganesson	인물: 유리 오가네샨	18	7	[294][j]	(5.0)[m][o]	–	(350)[m]	–	–	0[l]
